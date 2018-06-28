@@ -1,23 +1,17 @@
-## Team Member 1
-
-Name: Frank Cheng
+## Frank Cheng
 Role: Block Chain Software Engineer 
 
 Mr. Cheng is a full stack Software Engineer with 8 years experiences on back end and front end design and implementation. He has developed geographic information system (GIS) which is widely used by the fire fighter departments. In recent years, he is very interested in block chain smart contract development and understands the security protocol stacks and cryptography libraries. Right now, he is learning on how to build Dapps on Tron and wish to contribute to the community.
 
 
-## Team Member 2
-
-Name: Jing Lee
+## Jing Lee
 Role: Network Security Expert
 
 Mr. Lee has a master degree in Computer Science. He is a network engineer focuses on high-level network design and planning for more than 10 years.  He has been designing enterprise LAN, WAN which requires robustness, determinacy, and compatibility, performing growth analysis, capacity planning and optimization to meet current and future needs. Designed and implemented firewalls, intrusion detection/ prevention systems;Understood how to mitigate network threats and vulnerabilities.
 Familiar with Microsoft, Linux, Cisco, Vmware  systems.
 
 
-## Team Member 3
-
-Name: Michelle Ka
+## Michelle Ka
 Role: Community Relations and Marketing Manager 
 
 Ms. Ka is a naturally optimistic and friendly person. She has a bachelor's degree in public relations
